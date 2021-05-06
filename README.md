@@ -1,1 +1,2 @@
 # ilkcalisma
+ilk değişiklik yazıldı
